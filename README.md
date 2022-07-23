@@ -1,0 +1,1 @@
+# simple-shop-app.jdl
